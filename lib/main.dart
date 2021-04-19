@@ -23,7 +23,7 @@ class RecurrenceException extends StatelessWidget {
 
   _AppointmentDataSource _getCalendarDataSource() {
     List<Appointment> appointments = <Appointment>[];
-    DateTime exceptionDate = DateTime(2020, 12, 23);
+    DateTime exceptionDate = DateTime(2021, 04, 28);
     appointments.add(Appointment(
         startTime: DateTime.now(),
         endTime: DateTime.now().add(Duration(hours: 1)),
