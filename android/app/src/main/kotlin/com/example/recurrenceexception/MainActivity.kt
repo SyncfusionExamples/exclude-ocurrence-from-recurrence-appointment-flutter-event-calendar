@@ -1,4 +1,4 @@
-package com.example.flutter_recurrenceexception
+package com.example.recurrenceexception
 
 import io.flutter.embedding.android.FlutterActivity
 
